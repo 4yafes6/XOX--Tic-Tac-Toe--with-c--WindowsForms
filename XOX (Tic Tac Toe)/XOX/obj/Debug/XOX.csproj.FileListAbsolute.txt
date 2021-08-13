@@ -1,0 +1,11 @@
+C:\Users\yusuf\source\repos\XOX\XOX\bin\Debug\XOX.exe.config
+C:\Users\yusuf\source\repos\XOX\XOX\bin\Debug\XOX.exe
+C:\Users\yusuf\source\repos\XOX\XOX\bin\Debug\XOX.pdb
+C:\Users\yusuf\source\repos\XOX\XOX\obj\Debug\XOX.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\XOX\XOX\obj\Debug\XOX.Properties.Resources.resources
+C:\Users\yusuf\source\repos\XOX\XOX\obj\Debug\XOX.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\XOX\XOX\obj\Debug\XOX.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\XOX\XOX\obj\Debug\XOX.exe
+C:\Users\yusuf\source\repos\XOX\XOX\obj\Debug\XOX.pdb
+C:\Users\yusuf\source\repos\XOX\XOX\obj\Debug\XOX.xoxGame.resources
+C:\Users\yusuf\source\repos\XOX\XOX\obj\Debug\XOX.İnfo.resources
